@@ -1,4 +1,3 @@
-root=true
 
 [*.{groovy,java,kt,xml}]
 indent_style = tab
