@@ -1,3 +1,0 @@
-# This project uses rustfmt with default options.
-
-newline_style = "Unix"
